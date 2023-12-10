@@ -12,5 +12,6 @@ ESP8266 --> Oled Display
 ## Second module
 ESP8266 --> DHT11
 - 3.3V  -->  VCC
+-  GND  -->  GND
 - D2    -->  DHT Pin
 
