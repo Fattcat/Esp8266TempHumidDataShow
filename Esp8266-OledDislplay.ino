@@ -1,6 +1,13 @@
 #include <ESP8266WiFi.h>
 #include <DHT.h>
 
+// --------- CONNECTION ---------
+//       ESP8266 --> Oled Display
+//         3.3V  -->  VCC
+//          D1   -->  SDA
+//          D2   -->  SCL
+// --------- CONNECTION ---------
+
 const char *ssid = "EspWiFi";
 const char *password = "TvojeHeslo";
 
