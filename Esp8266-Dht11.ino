@@ -1,6 +1,12 @@
 #include <ESP8266WiFi.h>
 #include <DHT.h>
 
+// --------- CONNECTION ---------
+//       ESP8266 --> DHY 11
+//         3.3V  -->  VCC
+//          D2   -->  DHT Pin
+// --------- CONNECTION ---------
+
 const char *ssid = "EspWiFi";
 const char *password = "TvojeHeslo";
 
