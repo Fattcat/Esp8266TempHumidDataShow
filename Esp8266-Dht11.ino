@@ -2,7 +2,7 @@
 #include <DHT.h>
 
 // --------- CONNECTION ---------
-//       ESP8266 --> DHY 11
+//       ESP8266 --> DHT 11
 //         3.3V  -->  VCC
 //          D2   -->  DHT Pin
 // --------- CONNECTION ---------
